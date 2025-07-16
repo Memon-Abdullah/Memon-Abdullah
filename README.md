@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying computer science<br>I'm looking to collaborate on web development ML/DL and Data Sceince <br>I'm currently doing frontend development and hands on practice of Data Science<br>Ask me about problem solving and web and ML and DL<br>
+I'm recently graduated in computer science <br>I'm looking to collaborate on web development ML/DL and Data Sceince <br>I'm currently doing frontend development and hands on practice of Data Science<br>Ask me about problem solving and web and ML and DL<br>
 
 
 ## 🌐 Socials:
